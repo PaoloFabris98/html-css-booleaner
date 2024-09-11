@@ -1,12 +1,14 @@
-#foot{
+#foot {
     width: 100%;
     height: 35px;
     background-color: rgb(51, 3, 128);
     color: white;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-#pf1{
+#pf1 {
+    margin: 0; /* Rimuove margini inutili */
     text-align: center;
-    line-height: 35px;
 }

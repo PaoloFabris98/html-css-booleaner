@@ -1,8 +1,12 @@
+main{
+    flex: 1
+}
 #m1{
     width: 80%;
     height: auto;
     margin-left: 10%;
     margin-top: 10px;
+    
 }
 h1{
     margin: 0;
