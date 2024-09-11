@@ -1,0 +1,12 @@
+#foot{
+    width: 100%;
+    height: 35px;
+    background-color: blue;
+    color: white;
+
+}
+
+#pf1{
+    text-align: center;
+    line-height: 35px;
+}

@@ -8,10 +8,6 @@ h1{
     margin: 0;
     font-size: 25px;
 }
-#p1{
-    margin-top: -10px;
-    font-size: 10px;
-}
 #t1{
     font-size: 11px;
 }
@@ -22,7 +18,7 @@ h1{
     font-size: 9px;
     font-size: px;
 }
-#div1{
+#div1{  
     margin-top: 5px;
 }
 #img1{
@@ -39,20 +35,40 @@ margin-top: 1px;
     margin-top: -10px;
     font-size: 10px;
 }
+#p3{
+    margin: 0;
+    font-size: 15px;
+}
+#p4{
+    margin: 0;
+    font-size: 12px;
+}
 #span1{
     background-color: yellow;
+}
+#span2{
+    color: rgb(27, 178, 248);
 }
 #ul1{
     margin-left: -22px;
 }
 #tr1{
-    background-color: rgb(75, 167, 197);
+    background-color: rgb(127, 178, 255);
     color: white;
 }
 .t1{
+    background-color: rgba(127, 178, 255, 0.3);
     width: 380px;
     height: 40px;
 }
 .t2{
+    background-color: rgba(127, 178, 255, 0.3);
+    width: 760px;
+}
+.t3{
+    width: 380px;
+    height: 40px;
+}
+.t4{
     width: 760px;
 }
